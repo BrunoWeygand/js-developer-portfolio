@@ -41,43 +41,43 @@
     "Inglês - Básico",
     "Espanhol - Básico"
   ],
-  "portfolio": [
+  "projects": [
     {
-      "nome": "Recriando o Wikipedia com Layout Moderno",
+      "name": "Recriando o Wikipedia com Layout Moderno",
       "url": "https://github.com/BrunoWeygand/Wikipedia"
     },
     {
-      "nome": "Criando uma lading page para DIO",
+      "name": "Criando uma lading page para DIO",
       "url": "https://github.com/BrunoWeygand/criando-sua-primeira-landing-page"
     },
     {
-      "nome": "Clonando a página do Youtube",
+      "name": "Clonando a página do Youtube",
       "url": "https://github.com/BrunoWeygand/Clonando-a-Pagina-do-Youtube-com-CSS"
     },
     {
-      "nome": "Recriando a listagem do Youtube",
+      "name": "Recriando a listagem do Youtube",
       "url": "https://github.com/BrunoWeygand/Reproduzindo-a-Listagem-do-YouTube"
     },
     {
-      "nome": "Recriando o site do Discord",
+      "name": "Recriando o site do Discord",
       "url": "https://github.com/BrunoWeygand/Discord"
     },
     {
-      "nome": "Recriando o site do HBO Max",
+      "name": "Recriando o site do HBO Max",
       "url": "https://github.com/BrunoWeygand/hbomax"
     },
     {
-      "nome": "Criando uma pokedex com API",
+      "name": "Criando uma pokedex com API",
       "url": "https://github.com/BrunoWeygand/js-developer-pokedex"
     },
     {
-      "nome": "Criando um portfólio com API",
+      "name": "Criando um portfólio com API",
       "url": "https://github.com/BrunoWeygand/js-developer-portfolio"
     }
   ],
   "experiencias": [
     {
-      "nome": "Education Tech Lead ",
+      "name": "Education Tech Lead ",
       "descricao": "",
       "instituicao": "Digital Innovation One (DIO)",
       "periodo": {
