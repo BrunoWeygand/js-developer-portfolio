@@ -75,15 +75,31 @@
       "url": "https://github.com/BrunoWeygand/js-developer-portfolio"
     }
   ],
-  "experiencias": [
+  "certificates": [
     {
-      "name": "Education Tech Lead ",
-      "descricao": "",
-      "instituicao": "Digital Innovation One (DIO)",
-      "periodo": {
-        "inicio": "03/2021",
-        "fim": "Atualmente"
-      }
+      "name": "Lógica da programação",
+      "data": "Janeiro - 2024",
+      "url": "https://hermes.dio.me/certificates/41484C92.pdf"
+    },
+    {
+      "name": "HTML",
+      "data": "Fevereiro - 2024",
+      "url": "https://hermes.dio.me/certificates/82K2UE7W.pdf"
+    },
+    {
+      "name": "GIT",
+      "data": "Janeiro - 2025",
+      "url": "https://hermes.dio.me/certificates/ASK431QE.pdf"
+    },
+    {
+      "name": "CSS",
+      "data": "Janeiro - 2025",
+      "url": "https://hermes.dio.me/certificates/FZZOZHVZ.pdf"
+    },
+    {
+      "name": "Java Script",
+      "data": "Fevereiro - 2025",
+      "url": ""
     }
   ]
 }

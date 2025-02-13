@@ -44,6 +44,17 @@ function updateProfileProjects (profileData) {
 `).join('')
 }
 
+function updateProfileCertificates (profileData) {
+    const certificates = document.getElementById('profile.certificates')
+    certificates.innerHTML = profileData.certificates.map(certificate => `
+        <li>
+        <h3 class="${certificate.name}</h3>
+        <p class="period">${certificate.data}</p>
+        <a>${certificate.url}</a>
+        </li>
+`).join('')
+}
+
 (async () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
@@ -51,4 +62,5 @@ function updateProfileProjects (profileData) {
     updateProfileHardSkills(profileData)
     updateProfileLanguages(profileData)
     updateProfileProjects(profileData)
+    updateProfileCertificates(profileData)
 })()
