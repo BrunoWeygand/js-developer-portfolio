@@ -48,9 +48,9 @@ function updateProfileCertificates (profileData) {
     const certificates = document.getElementById('profile.certificates')
     certificates.innerHTML = profileData.certificates.map(certificate => `
         <li>
-        <h3 class="${certificate.name}</h3>
+        <h3 class="title">${certificate.name}</h3>
         <p class="period">${certificate.data}</p>
-        <a>${certificate.url}</a>
+        <a href="${certificate.url}" target="_blank">${certificate.url}</a>
         </li>
 `).join('')
 }
