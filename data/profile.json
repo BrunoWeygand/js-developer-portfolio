@@ -36,19 +36,10 @@
       "Proativo"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Básico"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "languages": [
+    "Português - Nativo",
+    "Inglês - Básico",
+    "Espanhol - Básico"
   ],
   "educacao": [
     {
