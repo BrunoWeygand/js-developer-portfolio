@@ -8,24 +8,24 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "HTML",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/BrunoWeygand/js-developer-portfolio/refs/heads/projeto-base/data/logos/HTML.png"
       },
       {
-        "nome": "CSS",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/BrunoWeygand/js-developer-portfolio/refs/heads/projeto-base/data/logos/CSS.png"
       },
       {
-        "nome": "Java Script",
-        "logo": "TODO"
+        "name": "Java Script",
+        "logo": "https://raw.githubusercontent.com/BrunoWeygand/js-developer-portfolio/refs/heads/projeto-base/data/logos/JavaScript.png"
       },
       {
-        "nome": "React",
-        "logo": "TODO"
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/BrunoWeygand/js-developer-portfolio/refs/heads/projeto-base/data/logos/React.png"
       },
       {
-        "nome": "GIT",
-        "logo": "TODO"
+        "name": "GIT",
+        "logo": "https://raw.githubusercontent.com/BrunoWeygand/js-developer-portfolio/refs/heads/projeto-base/data/logos/Git.png"
       }
     ],
     "softSkills": [
